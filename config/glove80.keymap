@@ -129,7 +129,7 @@
             &kp TAB     &kp Q    &kp W     &kp F      &kp P   &kp B                                                                   &kp J   &kp L      &kp U     &kp Y  &kp SEMI   &kp BSLH
             &kp ESC     &kp A    &kp R     &kp S      &kp T   &kp G                                                                   &kp M   &kp N      &kp E     &kp I     &kp O    &kp SQT
             &kp GRAVE     &kp Z    &kp X     &kp C      &kp D   &kp V  &kp LSHFT  &kp LCTRL    &layer_qwerty  &kp LGUI  &kp RCTRL  &kp RSHFT   &kp K   &kp H  &kp COMMA   &kp DOT  &kp FSLH  &kp PG_UP
-            &magic LAYER_Magic 0  &kp HOME  &kp END  &kp LEFT  &kp RIGHT           &kp BSPC    &kp DEL  &kp LALT  &kp RALT    &kp RET  &kp SPACE          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT  &kp PG_DN
+            &magic MAGIC 0  &kp HOME  &kp END  &kp LEFT  &kp RIGHT           &kp BSPC    &kp DEL  &kp LALT  &kp RALT    &kp RET  &kp SPACE          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT  &kp PG_DN
             >;
         };
 
